@@ -1,2 +1,1 @@
-"# Perpustakaan" 
-"# Perpustakaan" 
+Selamat datang di repositori Perpustakaan SMA Khadijah Proyek ini dirancang untuk mendigitalisasi manajemen hubungan antara perpustakaan dan siswa, guna meningkatkan efisiensi operasional dan pengalaman peminjaman buku.
